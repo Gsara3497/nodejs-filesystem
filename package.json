@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_37",
+  "version": "1.0.0",
+  "description": "To create web developer Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gsara3497/nodejs_37.git"
+  },
+  "author": "Saravanapriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gsara3497/nodejs_37/issues"
+  },
+  "homepage": "https://github.com/Gsara3497/nodejs_37#readme",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
