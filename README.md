@@ -18,11 +18,11 @@ Use an app called "Postman"   Or
 Enter this link into the app called "Postman"
 
 
-GET [http://127.0.0.1:3000/]
+GET [http://127.0.0.1:4000/]
 
-![alt text](image.png)
+![alt text](image.2.png)
 
-POST  [http://127.0.0.1:3000/post-file]
+POST  [http://127.0.0.1:4000/post-file]
 
 ![alt text](image-1.png)
 
