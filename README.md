@@ -18,17 +18,17 @@ Use an app called "Postman"   Or
 Enter this link into the app called "Postman"
 
 
-GET [http://127.0.0.1:4000/]
+GET [http://127.0.0.1:3000/]
 
-![alt text](image.png)
+![alt text](image-2.png)
 
-POST  [http://127.0.0.1:4000/post-file]
+POST  [http://127.0.0.1:3000/post-file]
 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 ## **Procedure**
 
-step1: Open file manager then select project name [nodejs_37] tpye cmd then open command prompt type (code .) then create vs code.
+step1: Open file manager then select project name [nodejs-filesystem] tpye cmd then open command prompt type (code .) then create vs code.
 
 step2: - Create an empty directory
 
