@@ -20,11 +20,12 @@ Enter this link into the app called "Postman"
 
 GET [http://127.0.0.1:3000/]
 
-![alt text](image-2.png)
+![alt text](image.png)
 
 POST  [http://127.0.0.1:3000/post-file]
 
-![alt text](image-3.png)
+![alt text](image-1.png)
+
 
 ## **Procedure**
 
