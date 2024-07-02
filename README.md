@@ -45,4 +45,6 @@ step3: vs code -> to create .gitignore file and index.js file and README.md file
 
 step4: Then i use [postman] App for get my result.
 
+step5: Then i deployed for render.com[https://nodejs-filesystem-zuma.onrender.com}
+
 
